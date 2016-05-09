@@ -16,7 +16,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements PlayerListFragment.OnListInteractionListener {
 
-    public static final String[] PLAYERS = { "Stephen Curry", "Derrick Rose", "Kevin Durant", "Andrew Wiggins" };
+    public static final String[] PLAYERS = { "Stephen Curry", "Derrick Rose", "Kevin Durant", "Kyle Lowry" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

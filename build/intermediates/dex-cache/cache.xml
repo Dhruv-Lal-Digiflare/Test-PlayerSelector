@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_9272a202b67a13a9383569a3d86c41090da624e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="95959240b0c6f4cc077e4cbf3c575ad3fcc472c8">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c68bf613fa2c008b20363b9150e2f9f5106915e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_541ae2e04279d6cebc65fad7db134865cc2caf22/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_89e265d5d4b9213e9484d3b4ad5c1964466b83a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf6d29ae818b8e4744ed2eae5ea4efa754db3b95">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69ecaad40bfa3eaf8dc080a78c4a5d7657d4bb95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_905f8a1435c0d90b3c020bdfadde9e1cda19f0af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_4057c5c9e5f854e101dadf144e4ec0d0c8ec2db8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_64811c7d6a453b8ee097ac03f16cadac357e839f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_608bf73f217391d61f60a54e4f4dc1126a73dc89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/dhruvlal/git-projects/Test-PlayerSelector/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c2dc0b81dfb04484b69de436186df19c70351c2f/classes.dex" />
+    </item>
+
+</items>
