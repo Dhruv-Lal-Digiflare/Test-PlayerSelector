@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# comment
 STR="Hello World!"
 echo $STR
 
